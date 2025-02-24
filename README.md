@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- 타이틀 부분 -->
 <div align="center">
   <!--
@@ -11,6 +9,16 @@
 <h3 align="center">✨ About Me ✨</h3>
 <p align="center">
   안녕하세요! <b>백엔드 개발자 기승민</b>입니다. <br>
+</p>
+
+---
+
+<h3 align="center">📌 Experience & Education 📌</h3>
+
+<p align="center">
+  🎓 인하대학교 컴퓨터공학과 (2020 ~ ) <br>
+  💼 소프트웨어 마에스트로 15기 수료(2024) <br>
+  🏆 소프트웨어 마에스트로 우수 프로젝트 선정 <br>
 </p>
 
 ---
@@ -62,6 +70,7 @@
 <h4 align="center">🔧 Tools & Others</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
@@ -88,6 +97,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
   </a>
 </div>
+
+<br>
 
 <!-- 깃허브 통계 -->
 <h3 align="center">📊 GitHub Stats 📊</h3>
