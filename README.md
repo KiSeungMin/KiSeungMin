@@ -13,7 +13,7 @@
 
 ---
 
-<!-- 연락처 및 링크 -->
+<!-- 연락처 -->
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:ksm011212@gmail.com">
@@ -23,19 +23,24 @@
   <a href="mailto:sm011212@naver.com">
     <img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
+</div>
+
+---
+
+<!-- 링크 -->
+<h3 align = "center"> 🔗Reference🔗 </h3>
+<div align = "center">
   <a href="https://velog.io/@sm011212">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
   <a href="https://flying-hydrangea-5cf.notion.site/858ad2ea770c4b799d4b3367b362f9e1">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
   </a>
-  <a href="https://www.instagram.com/seungminki">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
-  </a>
 </div>
 
 ---
 
+<!-- 경력 -->
 <h3 align="center">📌 Experience & Education 📌</h3>
 
 <p align="center">
@@ -84,7 +89,6 @@
 </div>
 
 ---
-<br>
 
 <!-- 깃허브 통계 -->
 <h3 align="center">📊 GitHub Stats 📊</h3>
@@ -93,4 +97,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiSeungMin&theme=radical" width="48%" height="180px"/>
 </div>
 
----
