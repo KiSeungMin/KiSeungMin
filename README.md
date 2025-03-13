@@ -94,7 +94,7 @@
 <h3 align="center">📊 Stats 📊</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KiSeungMin&show_icons=true&theme=radical&layout=compact" width="48%" height="180px"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sm011212" width="48%" height="180px"/>
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sm011212" width="48%" height="180px"/>
 </div>
 
 
