@@ -44,8 +44,11 @@
 <h3 align="center">📌 Experience & Education 📌</h3>
 
 <p align="center">
-  🎓 인하대학교 컴퓨터공학과(2020 ~ ) <br>
-  💼 소프트웨어 마에스트로 15기(2024) <br>
+  🎓 인하대학교 컴퓨터공학과(2020 ~ ) <br><br>
+  💻 UMC 5th Spring 챌린저 (2023.08 ~ 2024.02) <br><br> 
+  💼 <b>소프트웨어 마에스트로 15기<b> (2024.03 ~ 2024.12) <br><br>
+  💻 UMC 8th Spring 시니어 챌린저 (2025.03 ~ 2025.08) <br><br>
+  😎 <b>UMC 9th 인하대 회장<b> (2025.08 ~ 2026.02) <br>
 </p>
 
 ---
@@ -67,11 +70,8 @@
 </div>
 
 <!-- Backend -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp
-</div>
+<div align="center"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">&nbsp </div>
+
 
 <!-- Infra & DevOps -->
 <div align="center">
