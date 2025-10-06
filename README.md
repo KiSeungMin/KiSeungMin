@@ -33,7 +33,7 @@
   <a href="https://velog.io/@sm011212">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="https://flying-hydrangea-5cf.notion.site/858ad2ea770c4b799d4b3367b362f9e1">
+  <a href="https://sky-tarantula-a7e.notion.site/266aa3615ddb803bbf64f26019b63b08">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
   </a>
 </div>
