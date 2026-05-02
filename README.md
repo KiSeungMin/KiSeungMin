@@ -57,11 +57,3 @@
 [![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@sm011212)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://sky-tarantula-a7e.notion.site/266aa3615ddb803bbf64f26019b63b08)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ksm011212@gmail.com)
-
----
-## 📊 Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=KiSeungmin&show_icons=true" height="170"/>
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sm011212" height="170"/>
-</p>
