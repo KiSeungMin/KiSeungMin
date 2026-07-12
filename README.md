@@ -1,17 +1,21 @@
-## 안녕하세요 백엔드 개발자 기승민입니다.
-
+### 안녕하세요 백엔드 개발자 기승민입니다.
 ---
 
 ## 🧑‍💻 About Me
 
 - 🎓 인하대학교 컴퓨터공학과 (2020 ~ )
+  
 - 💻 UMC 5th Spring Challenger (2023.08 ~ 2024.02)
+  
 - 💼 소프트웨어 마에스트로 15기 (2024.03 ~ 2024.12)
+  
 - 💻 UMC 8th Spring Senior Challenger (2025.03 ~ 2025.08)
+  
 - 👑 UMC 9th 인하대 회장 (2025.08 ~ 2026.02)
+  
 - 🏢 eMoldino 백엔드 인턴 (2026.04 ~ 2026.06)
 
----
+<br>
 
 ## 🛠 Tech Stack
 
@@ -51,7 +55,7 @@
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
----
+<br>
 
 ## 🔗 Links
 
