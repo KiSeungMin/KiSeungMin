@@ -60,5 +60,5 @@
 ## 🔗 Links
 
 [![Velog](https://img.shields.io/badge/Velog-1EBC8F?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@sm011212)
-[![Portfolio](https://www.figma.com/proto/om9bxRbuyvXlAKu24H3yxk/%EA%B8%B0%EC%8A%B9%EB%AF%BC_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?node-id=1-3&p=f&viewport=-2%2C349%2C0.13&t=Pj7DTEdsnGnRJ3M0-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3&page-id=0%3A1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://www.figma.com/proto/om9bxRbuyvXlAKu24H3yxk/%EA%B8%B0%EC%8A%B9%EB%AF%BC_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4?node-id=1-3&p=f&viewport=-2%2C349%2C0.13&t=Pj7DTEdsnGnRJ3M0-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A3&page-id=0%3A1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ksm011212@gmail.com)
